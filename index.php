@@ -12,7 +12,7 @@
   <div id="content">
   <img src="images/vs_monogram.png"alt="View Source Monogram" />
   <h2>My First App</h2>
-  <p>This is some text to make sure my app is working on Facebook</p>
+  <p>testing</p>
   </div><!--content -->
 </body>
 </html>
